@@ -7,7 +7,7 @@ from datetime import datetime
 from telebot import types
 
 # --- কনফিগারেশন ---
-TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'  # 👈 এখানে আপনার বটের আসল টোকেনটি বসিয়ে দিন
+TOKEN = '8891922362:AAHO4AuDrtHm0TjFl7ZFkUyKFNXj05n5dCA'  # 👈 এখানে আপনার বটের আসল টোকেনটি বসিয়ে দিন
 ADMIN_ID = 8634645150  # আপনার অ্যাডমিন চ্যাট আইডি
 
 bot = telebot.TeleBot(TOKEN)
